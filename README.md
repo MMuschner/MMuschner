@@ -4,7 +4,7 @@ My name is Michael. After I finished my apprenticeship to become an electrical e
 My current favourite language is go and I like to programm Arduino sketches. If it really has to be I may do some python (or even C++) but I try to avoid it. 
 
 * I have worked on https://github.com/uyuni-project/inter-server-sync and currently I am working on https://github.com/trento-project/trento.
-* Ccurrently learning go (with a focus on web-dev), postgresql, protobuf, security
+* Currently learning go (with a focus on web-dev), postgresql, protobuf, security
 * I speak german and english (maybe soon also dutch)
 * How to reach me: michael.muschner@mailbox.org
 
